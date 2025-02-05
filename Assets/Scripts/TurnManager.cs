@@ -61,7 +61,7 @@ public class TurnManager : MonoBehaviour
 
     void animation()//おくうちゃんアニメーション
     {
-
+        Debug.Log("振り向きアニメーション");
     }
 
     void hideUI()//UI隠す
