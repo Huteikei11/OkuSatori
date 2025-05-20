@@ -1,0 +1,49 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 0.03,
+		"Fps": 30.0,
+		"Loop": true,
+		"AreBeziersRestricted": true,
+		"CurveCount": 3,
+		"TotalSegmentCount": 3,
+		"TotalPointCount": 6,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Skirt_3",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.03,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Skirt_1",
+			"Segments": [
+				0,
+				0,
+				0,
+				0.03,
+				0
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Skirt_2",
+			"Segments": [
+				0,
+				0,
+				0,
+				0.03,
+				0
+			]
+		}
+	]
+}

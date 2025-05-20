@@ -1,0 +1,43 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "okg_おくうちゃんモデル_インポート.moc3",
+		"Textures": [
+			"okg_おくうちゃんモデル_インポート.2048/texture_00.png"
+		],
+		"Physics": "okg_おくうちゃんモデル_インポート.physics3.json",
+		"Pose": "okg.pose3.json",
+		"DisplayInfo": "okg_おくうちゃんモデル_インポート.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "bikubiku",
+				"File": "bikubiku.exp3.json"
+			},
+			{
+				"Name": "normal",
+				"File": "normal.exp3.json"
+			},
+			{
+				"Name": "shame",
+				"File": "shame.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen"
+			]
+		}
+	],
+	"HitAreas": []
+}

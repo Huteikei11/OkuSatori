@@ -1,0 +1,357 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 1,
+		"Fps": 30.0,
+		"Loop": true,
+		"AreBeziersRestricted": true,
+		"CurveCount": 30,
+		"TotalSegmentCount": 31,
+		"TotalPointCount": 65,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "ParamSatoriTuneriNipple",
+			"Segments": [
+				0,
+				1,
+				1,
+				0.167,
+				1,
+				0.333,
+				-1,
+				0.5,
+				-1,
+				1,
+				0.667,
+				-1,
+				0.833,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Effect",
+			"Segments": [
+				0,
+				1,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_satori",
+			"Segments": [
+				0,
+				1,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Satori_Hand",
+			"Segments": [
+				0,
+				1,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Satori_Hand2",
+			"Segments": [
+				0,
+				1,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Satori_Hand2_Shirt",
+			"Segments": [
+				0,
+				1,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Satori_tmp_before",
+			"Segments": [
+				0,
+				1,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Satori_tmp",
+			"Segments": [
+				0,
+				1,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Satori_tongue",
+			"Segments": [
+				0,
+				1,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part2",
+			"Segments": [
+				0,
+				1,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "PartArm",
+			"Segments": [
+				0,
+				1,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Torso",
+			"Segments": [
+				0,
+				1,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Torso_2",
+			"Segments": [
+				0,
+				1,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Torso_1",
+			"Segments": [
+				0,
+				1,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Torso_3",
+			"Segments": [
+				0,
+				1,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part7",
+			"Segments": [
+				0,
+				1,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part8",
+			"Segments": [
+				0,
+				1,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part9",
+			"Segments": [
+				0,
+				1,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Eye_1",
+			"Segments": [
+				0,
+				1,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Eye_2",
+			"Segments": [
+				0,
+				1,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part10",
+			"Segments": [
+				0,
+				1,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Mouth",
+			"Segments": [
+				0,
+				1,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Mouth2",
+			"Segments": [
+				0,
+				1,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Mouth3",
+			"Segments": [
+				0,
+				1,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part11",
+			"Segments": [
+				0,
+				1,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Skirt",
+			"Segments": [
+				0,
+				1,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Skirt_3",
+			"Segments": [
+				0,
+				1,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Skirt_1",
+			"Segments": [
+				0,
+				1,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Skirt_2",
+			"Segments": [
+				0,
+				1,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part14",
+			"Segments": [
+				0,
+				1,
+				0,
+				1,
+				1
+			]
+		}
+	]
+}

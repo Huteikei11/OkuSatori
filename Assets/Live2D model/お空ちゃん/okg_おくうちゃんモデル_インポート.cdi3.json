@@ -1,0 +1,577 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamCheek",
+			"GroupId": "ParamGroup5",
+			"Name": "照れ"
+		},
+		{
+			"Id": "ParamAse",
+			"GroupId": "ParamGroup5",
+			"Name": "汗"
+		},
+		{
+			"Id": "ParamCheekEx",
+			"GroupId": "ParamGroup5",
+			"Name": "発情"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup5",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroup5",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup5",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamEyeLScale",
+			"GroupId": "ParamGroup6",
+			"Name": "瞳　拡縮"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup6",
+			"Name": "左目　開閉"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "ParamGroup6",
+			"Name": "左目　笑顔"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup6",
+			"Name": "目玉 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup6",
+			"Name": "目玉 Y"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup9",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup9",
+			"Name": "口　開閉"
+		},
+		{
+			"Id": "ParamTongueIO",
+			"GroupId": "ParamGroup9",
+			"Name": "舌出し"
+		},
+		{
+			"Id": "ParamMouthSize",
+			"GroupId": "ParamGroup9",
+			"Name": "口 大きさ"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "ParamGroup4",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamSatoriTuneriNipple",
+			"GroupId": "ParamGroup4",
+			"Name": "さとりつねり_乳首"
+		},
+		{
+			"Id": "ParamTuneriMove",
+			"GroupId": "ParamGroup4",
+			"Name": "さとりつねり_移動"
+		},
+		{
+			"Id": "ParamPant",
+			"GroupId": "ParamGroup4",
+			"Name": "パンツめくり"
+		},
+		{
+			"Id": "ParamSquat",
+			"GroupId": "ParamGroup4",
+			"Name": "しゃがみ"
+		},
+		{
+			"Id": "ParamShirtMekuri",
+			"GroupId": "ParamGroup4",
+			"Name": "服上めくり"
+		},
+		{
+			"Id": "ParamSpanking",
+			"GroupId": "ParamGroup4",
+			"Name": "スパンキング"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "ParamGroup4",
+			"Name": "体の回転 Y"
+		},
+		{
+			"Id": "ParamBrowY",
+			"GroupId": "ParamGroup3",
+			"Name": "眉 上下"
+		},
+		{
+			"Id": "ParamBrowAngle",
+			"GroupId": "ParamGroup3",
+			"Name": "眉 角度"
+		},
+		{
+			"Id": "ParamBrowSikame",
+			"GroupId": "ParamGroup3",
+			"Name": "眉 しかめ"
+		},
+		{
+			"Id": "ParamShoulder",
+			"GroupId": "ParamGroup2",
+			"Name": "肩回転"
+		},
+		{
+			"Id": "ParamElbow",
+			"GroupId": "ParamGroup2",
+			"Name": "腕回転"
+		},
+		{
+			"Id": "ParamHand",
+			"GroupId": "ParamGroup2",
+			"Name": "手回転"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup2",
+			"Name": "スカートめくり"
+		},
+		{
+			"Id": "ParamSkirtMekriHandAlpha",
+			"GroupId": "ParamGroup2",
+			"Name": "スカートめくりハンド不透明度"
+		},
+		{
+			"Id": "ParamGoso1Alpha",
+			"GroupId": "ParamGroup7",
+			"Name": "ごそ1不透明度"
+		},
+		{
+			"Id": "ParamGoso2Alpha",
+			"GroupId": "ParamGroup7",
+			"Name": "ごそ2不透明度"
+		},
+		{
+			"Id": "ParamGoso3Alpha",
+			"GroupId": "ParamGroup7",
+			"Name": "ごそ3不透明度"
+		},
+		{
+			"Id": "ParamGoso1Angle",
+			"GroupId": "ParamGroup7",
+			"Name": "ごそ1角度"
+		},
+		{
+			"Id": "ParamGoso2Angle",
+			"GroupId": "ParamGroup7",
+			"Name": "ごそ2角度"
+		},
+		{
+			"Id": "ParamGoso3Angle",
+			"GroupId": "ParamGroup7",
+			"Name": "ごそ3角度"
+		},
+		{
+			"Id": "ParamHeartAlpha",
+			"GroupId": "ParamGroup7",
+			"Name": "ハート不透明度"
+		},
+		{
+			"Id": "ParamHeartXZ",
+			"GroupId": "ParamGroup7",
+			"Name": "ハート移動"
+		},
+		{
+			"Id": "ParamHeartAngle",
+			"GroupId": "ParamGroup7",
+			"Name": "ハート角度"
+		},
+		{
+			"Id": "HipBashinltu",
+			"GroupId": "ParamGroup7",
+			"Name": "尻バシンッ"
+		},
+		{
+			"Id": "HipBikuBIkuXZ",
+			"GroupId": "ParamGroup7",
+			"Name": "尻ビクンッ移動"
+		},
+		{
+			"Id": "HipBikuBIku1Alpha",
+			"GroupId": "ParamGroup7",
+			"Name": "尻ビクンッ不透明度"
+		},
+		{
+			"Id": "ParamBikuBIku1",
+			"GroupId": "ParamGroup7",
+			"Name": "ビクビク1"
+		},
+		{
+			"Id": "ParamBikuBIku1Alpha",
+			"GroupId": "ParamGroup7",
+			"Name": "ビクビク1不透明度"
+		},
+		{
+			"Id": "ParamBikuBIku2",
+			"GroupId": "ParamGroup7",
+			"Name": "ビクビク2"
+		},
+		{
+			"Id": "ParamBikuBIku2Alpha",
+			"GroupId": "ParamGroup7",
+			"Name": "ビクビク2不透明度"
+		},
+		{
+			"Id": "ParamTikaTikaAlpha",
+			"GroupId": "ParamGroup7",
+			"Name": "チカチカ不透明度"
+		},
+		{
+			"Id": "ParamTikaTikaXZ",
+			"GroupId": "ParamGroup7",
+			"Name": "チカチカ移動"
+		},
+		{
+			"Id": "ParamTikaTikaAngle",
+			"GroupId": "ParamGroup7",
+			"Name": "チカチカ角度"
+		},
+		{
+			"Id": "ParamPiston",
+			"GroupId": "ParamGroup8",
+			"Name": "ピストン"
+		},
+		{
+			"Id": "ParamInsert",
+			"GroupId": "ParamGroup8",
+			"Name": "挿入"
+		},
+		{
+			"Id": "ParamInsertBuru",
+			"GroupId": "ParamGroup8",
+			"Name": "tmpブルン"
+		},
+		{
+			"Id": "ParamRero",
+			"GroupId": "ParamGroup8",
+			"Name": "レロ"
+		},
+		{
+			"Id": "ParamTongueMove",
+			"GroupId": "ParamGroup8",
+			"Name": "舌移動"
+		},
+		{
+			"Id": "ParamBustX",
+			"GroupId": "ParamGroup",
+			"Name": "胸揺れX"
+		},
+		{
+			"Id": "ParamBustY",
+			"GroupId": "ParamGroup",
+			"Name": "胸揺れY"
+		},
+		{
+			"Id": "ParamBura",
+			"GroupId": "ParamGroup",
+			"Name": "脱ぎブラ揺れ"
+		},
+		{
+			"Id": "ParamBuraHimo",
+			"GroupId": "ParamGroup",
+			"Name": "脱ぎブラ紐揺れ"
+		},
+		{
+			"Id": "ParamSkirt",
+			"GroupId": "ParamGroup",
+			"Name": "スカート"
+		},
+		{
+			"Id": "ParamHairFront1",
+			"GroupId": "ParamGroup",
+			"Name": "前髪1"
+		},
+		{
+			"Id": "ParamHairFront2",
+			"GroupId": "ParamGroup",
+			"Name": "前髪2"
+		},
+		{
+			"Id": "ParamHairSideUp",
+			"GroupId": "ParamGroup",
+			"Name": "横髪上"
+		},
+		{
+			"Id": "ParamHairSideDown1",
+			"GroupId": "ParamGroup",
+			"Name": "横髪下1"
+		},
+		{
+			"Id": "ParamHairSideDown2",
+			"GroupId": "ParamGroup",
+			"Name": "横髪下2"
+		},
+		{
+			"Id": "ParamHairSideDown3",
+			"GroupId": "ParamGroup",
+			"Name": "横髪下3"
+		},
+		{
+			"Id": "ParamHairBackHane1",
+			"GroupId": "ParamGroup",
+			"Name": "後髪ハネ1"
+		},
+		{
+			"Id": "ParamHairBackHane2",
+			"GroupId": "ParamGroup",
+			"Name": "後髪ハネ2"
+		},
+		{
+			"Id": "ParamHairBackHane3",
+			"GroupId": "ParamGroup",
+			"Name": "後髪ハネ3"
+		},
+		{
+			"Id": "ParamHairSideBack1",
+			"GroupId": "ParamGroup",
+			"Name": "後ろ横髪1"
+		},
+		{
+			"Id": "ParamHairSideBack2",
+			"GroupId": "ParamGroup",
+			"Name": "後ろ横髪2"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "ParamGroup",
+			"Name": "後髪"
+		},
+		{
+			"Id": "ParamAllHairBack1",
+			"GroupId": "ParamGroup",
+			"Name": "全後髪1"
+		},
+		{
+			"Id": "ParamAllHairBack2",
+			"GroupId": "ParamGroup",
+			"Name": "全後髪2"
+		},
+		{
+			"Id": "ParamRibon",
+			"GroupId": "ParamGroup",
+			"Name": "リボン"
+		},
+		{
+			"Id": "ParamRibon2",
+			"GroupId": "ParamGroup",
+			"Name": "リボン下"
+		},
+		{
+			"Id": "ParamHip",
+			"GroupId": "ParamGroup",
+			"Name": "尻"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "顔"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "目"
+		},
+		{
+			"Id": "ParamGroup9",
+			"GroupId": "",
+			"Name": "口"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "体"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "眉"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "腕"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "エフェクト"
+		},
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "H"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "揺れ"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part_Effect",
+			"Name": "*エフェクト"
+		},
+		{
+			"Id": "Part_satori",
+			"Name": "*さとり"
+		},
+		{
+			"Id": "Part2",
+			"Name": "*前髪"
+		},
+		{
+			"Id": "PartArm",
+			"Name": "腕"
+		},
+		{
+			"Id": "Part_Torso",
+			"Name": "胴体"
+		},
+		{
+			"Id": "Part7",
+			"Name": "*表情"
+		},
+		{
+			"Id": "Part_Skirt",
+			"Name": "スカート"
+		},
+		{
+			"Id": "Part14",
+			"Name": "*下半身"
+		},
+		{
+			"Id": "Part_Satori_Hand",
+			"Name": "さとりハンド"
+		},
+		{
+			"Id": "Part_Satori_Hand2_Bura",
+			"Name": "さとりハンド2_ブラジャー"
+		},
+		{
+			"Id": "Part_Satori_Hand2",
+			"Name": "さとりハンド2"
+		},
+		{
+			"Id": "Part_Satori_Hand2_Shirt",
+			"Name": "さとりハンド2_シャツ"
+		},
+		{
+			"Id": "Part_Satori_tmp_before",
+			"Name": "さとりtmp挿入前"
+		},
+		{
+			"Id": "Part_Satori_tmp",
+			"Name": "さとりtmp"
+		},
+		{
+			"Id": "Part_Satori_tongue",
+			"Name": "さとり舌"
+		},
+		{
+			"Id": "Part_Torso_2",
+			"Name": "シャツ脱ぎ"
+		},
+		{
+			"Id": "Part_Torso_1",
+			"Name": "ノーマル"
+		},
+		{
+			"Id": "Part_Torso_3",
+			"Name": "全脱ぎ"
+		},
+		{
+			"Id": "Part8",
+			"Name": "*差分"
+		},
+		{
+			"Id": "Part9",
+			"Name": "*瞳"
+		},
+		{
+			"Id": "Part10",
+			"Name": "*口"
+		},
+		{
+			"Id": "Part11",
+			"Name": "*白目"
+		},
+		{
+			"Id": "Part_Skirt_3",
+			"Name": "スカートめくり"
+		},
+		{
+			"Id": "Part_Skirt_1",
+			"Name": "スカート通常"
+		},
+		{
+			"Id": "Part_Skirt_2",
+			"Name": "スカートめくり中"
+		},
+		{
+			"Id": "Part_Eye_1",
+			"Name": "瞳_通常"
+		},
+		{
+			"Id": "Part_Eye_2",
+			"Name": "瞳_H"
+		},
+		{
+			"Id": "Part_Mouth",
+			"Name": "口_通常"
+		},
+		{
+			"Id": "Part_Mouth2",
+			"Name": "口_んんっ"
+		},
+		{
+			"Id": "Part_Mouth3",
+			"Name": "口_あへ"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamAngleX",
+			"ParamAngleZ"
+		],
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		],
+		[
+			"ParamMouthForm",
+			"ParamMouthOpenY"
+		],
+		[
+			"ParamBustX",
+			"ParamBustY"
+		]
+	]
+}

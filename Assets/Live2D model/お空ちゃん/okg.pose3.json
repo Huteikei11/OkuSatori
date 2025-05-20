@@ -1,0 +1,88 @@
+{
+	"Type": "Live2D Pose",
+	"FadeInTime": 0.1,
+	"Groups": [
+		[
+			{
+				"Id": "Part_Torso_2",
+				"Link": []
+			},
+			{
+				"Id": "Part_Torso_1",
+				"Link": []
+			},
+			{
+				"Id": "Part_Torso_3",
+				"Link": []
+			}
+		],
+		[
+			{
+				"Id": "Part_Skirt_3",
+				"Link": []
+			},
+			{
+				"Id": "Part_Skirt_1",
+				"Link": []
+			},
+			{
+				"Id": "Part_Skirt_2",
+				"Link": []
+			}
+		],
+		[
+			{
+				"Id": "Part_Eye_1",
+				"Link": []
+			},
+			{
+				"Id": "Part_Eye_2",
+				"Link": []
+			}
+		],
+		[
+			{
+				"Id": "Part_Mouth",
+				"Link": []
+			},
+			{
+				"Id": "Part_Mouth2",
+				"Link": []
+			},
+			{
+				"Id": "Part_Mouth3",
+				"Link": []
+			}
+		],
+		[
+			{
+				"Id": "Part_Satori_Hand",
+				"Link": []
+			},
+			{
+				"Id": "Part_Satori_Hand2_Bura",
+				"Link": []
+			},
+			{
+				"Id": "Part_Satori_Hand2",
+				"Link": []
+			},
+			{
+				"Id": "Part_Satori_Hand2_Shirt",
+				"Link": []
+			},
+			{
+				"Id": "Part_Satori_tmp_before",
+				"Link": []
+			},
+			{
+				"Id": "Part_Satori_tmp",
+				"Link": []
+			},
+			{
+				"Id": "Part_Satori_tongue",
+				"Link": []
+			}
+		]
+	]
+}

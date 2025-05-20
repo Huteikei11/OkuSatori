@@ -1,0 +1,34 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 0.833,
+		"Fps": 59.99995803833008,
+		"Loop": true,
+		"AreBeziersRestricted": true,
+		"CurveCount": 1,
+		"TotalSegmentCount": 2,
+		"TotalPointCount": 5,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "ParamTongueMove",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.25,
+				0,
+				0.5,
+				1,
+				0.75,
+				1,
+				0,
+				0.833,
+				1
+			]
+		}
+	]
+}

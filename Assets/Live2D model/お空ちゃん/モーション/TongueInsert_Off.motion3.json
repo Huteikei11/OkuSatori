@@ -1,0 +1,137 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 0.83,
+		"Fps": 59.99995803833008,
+		"Loop": true,
+		"AreBeziersRestricted": true,
+		"CurveCount": 9,
+		"TotalSegmentCount": 15,
+		"TotalPointCount": 26,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "ParamTongueMove",
+			"Segments": [
+				0,
+				1,
+				1,
+				0.25,
+				1,
+				0.5,
+				0,
+				0.75,
+				0,
+				0,
+				0.833,
+				0
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Satori_Hand",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.75,
+				0,
+				0,
+				0.83,
+				0
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Satori_Hand2",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.75,
+				0,
+				0,
+				0.83,
+				0
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Satori_tmp_before",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.75,
+				0,
+				0,
+				0.83,
+				0
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Satori_tmp",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.75,
+				0,
+				0,
+				0.83,
+				0
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Satori_tongue",
+			"Segments": [
+				0,
+				1,
+				2,
+				0.75,
+				1,
+				0,
+				0.83,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Mouth",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.83,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Mouth2",
+			"Segments": [
+				0,
+				0,
+				0,
+				0.83,
+				0
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Mouth3",
+			"Segments": [
+				0,
+				0,
+				0,
+				0.83,
+				0
+			]
+		}
+	]
+}

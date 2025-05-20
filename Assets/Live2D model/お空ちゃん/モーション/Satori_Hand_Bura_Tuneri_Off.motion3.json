@@ -1,0 +1,67 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 0.83,
+		"Fps": 59.99995803833008,
+		"Loop": true,
+		"AreBeziersRestricted": true,
+		"CurveCount": 4,
+		"TotalSegmentCount": 5,
+		"TotalPointCount": 11,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "ParamTuneriMove3",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.228,
+				0,
+				0.456,
+				1,
+				0.683,
+				1,
+				0,
+				0.833,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Mouth",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.83,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Mouth2",
+			"Segments": [
+				0,
+				0,
+				0,
+				0.83,
+				0
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part_Mouth3",
+			"Segments": [
+				0,
+				0,
+				0,
+				0.83,
+				0
+			]
+		}
+	]
+}
